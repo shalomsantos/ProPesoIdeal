@@ -1,0 +1,17 @@
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.csproj.AssemblyReference.cache
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.Form1.resources
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.Properties.Resources.resources
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.csproj.GenerateResource.cache
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.AssemblyInfoInputs.cache
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.AssemblyInfo.cs
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.csproj.CoreCompileInputs.cache
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.exe
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.deps.json
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.runtimeconfig.json
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.runtimeconfig.dev.json
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.dll
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\bin\Debug\netcoreapp3.1\Pesoideal.pdb
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.dll
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.pdb
+C:\Users\Shalom\Desktop\Shalom\Estudos\C#\Pesoideal\Pesoideal\obj\Debug\netcoreapp3.1\Pesoideal.genruntimeconfig.cache
